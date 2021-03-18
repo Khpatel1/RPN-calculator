@@ -27,3 +27,7 @@
 * In CMD set directory to location of *'finalCalc.exe'*
 * Enter `finalCalc.exe`
 * Enter a math problem in reverse polish notion and press enter
+
+### Possible changes in the future
+* Support noraml calculator features
+* create a UI
